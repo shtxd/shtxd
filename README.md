@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Erik Carlos 
 **``Desenvolvedor Back-end``**
 
-Me chamo Erik Carlos, tenho 19 anos e sou natural de Jõao Pessoa/PB, atualemente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual da Paraiba(UEPB) e sou apaixonado por tecnologia desde os meus 12 anos de idade. Estou em busca da minha primeira oportunidade de Estagio [Meu Linkedin](https://www.linkedin.com/in/erikcarlos). 
+Me chamo Erik Carlos, tenho 19 anos e sou natural de João Pessoa/PB, atualemente curso Análise e Desenvolvimento de Sistemas na Universidade Estadual da Paraiba(UEPB) e sou apaixonado por tecnologia desde os meus 12 anos de idade. Estou em busca da minha primeira oportunidade de Estagio [Meu Linkedin](https://www.linkedin.com/in/erikcarlos). 
 
 <p align="center">
   <!-- Animação principal substituindo o banner estático pelo seu nome digitando -->
